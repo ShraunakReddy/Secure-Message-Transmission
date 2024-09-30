@@ -88,3 +88,4 @@ def caesar_cipher_decrypt(encrypted_message, key):
 ...     print("MAC Valid:", mac_valid)
 ... 
 ... if __name__ == "__main__":
+        main()
